@@ -1,0 +1,74 @@
+Season_number,Episode_number,Episode_title,Directed_by,Written_by,Music_by,Cinematographed_by,Edited_by,IMDb_rating,Rotten_Tomatoes_rating,Metacritic_rating,Overall_rating,Episode_adapted_from_the_novel,Overall_episode_number,U.S_viewers_in_millions
+1,1,Winter Is Coming,Tim Van Patten,"David Benioff, D. B. Weiss",Ramin Djawadi,Alik Sakharov,Oral Norrie Ottey,8.9,100,9.1,9.333333333,A Game of Thrones,1,2.22
+1,2,The Kingsroad,Tim Van Patten,"David Benioff, D. B. Weiss",Ramin Djawadi,Alik Sakharov,Oral Norrie Ottey,8.6,100,8.9,9.166666667,A Game of Thrones,2,2.2
+1,3,Lord Snow,Brian Kirk,"David Benioff, D. B. Weiss",Ramin Djawadi,Marco Pontecorvo,Frances Parker,8.5,81,8.7,8.433333333,A Game of Thrones,3,2.44
+1,4,"Cripples, Bastards, and Broken Things",Brian Kirk,Bryan Cogman,Ramin Djawadi,Marco Pontecorvo,Frances Parker,8.6,100,9.1,9.233333333,A Game of Thrones,4,2.45
+1,5,The Wolf and the Lion,Brian Kirk,"David Benioff, D. B. Weiss",Ramin Djawadi,Marco Pontecorvo,Frances Parker,9,95,9,9.166666667,A Game of Thrones,5,2.58
+1,6,A Golden Crown,Daniel Minahan,"David Benioff, D. B. Weiss",Ramin Djawadi,Matthew Jensen,Martin Nicholson,9.1,100,9.2,9.433333333,A Game of Thrones,6,2.44
+1,7,You Win or You Die,Daniel Minahan,"David Benioff, D. B. Weiss",Ramin Djawadi,Matthew Jensen,Martin Nicholson,9.1,100,9.4,9.5,A Game of Thrones,7,2.4
+1,8,The Pointy End,Daniel Minahan,George R. R. Martin,Ramin Djawadi,Matthew Jensen,Martin Nicholson,8.9,95,8.9,9.1,A Game of Thrones,8,2.72
+1,9,Baelor,Alan Taylor,"David Benioff, D. B. Weiss",Ramin Djawadi,Alik Sakharov,Frances Parker,9.6,100,9.5,9.7,A Game of Thrones,9,2.66
+1,10,Fire and Blood,Alan Taylor,"David Benioff, D. B. Weiss",Ramin Djawadi,Alik Sakharov,Frances Parker,9.4,100,9.4,9.6,A Game of Thrones,10,3.04
+2,1,The North Remembers,Alan Taylor,"David Benioff, D. B. Weiss",Ramin Djawadi,Kramer Morgenthau,Frances Parker,8.6,100,8.9,9.166666667,A Clash of Kings,11,3.86
+2,2,The Night Lands,Alan Taylor,"David Benioff, D. B. Weiss",Ramin Djawadi,Kramer Morgenthau,Frances Parker,8.4,89,7.7,8.333333333,A Clash of Kings,12,3.76
+2,3,What Is Dead May Never Die,Alik Sakharov,Bryan Cogman,Ramin Djawadi,P.J. Dillon,Katie Weiland,8.7,100,8.3,9,A Clash of Kings,13,3.77
+2,4,Garden of Bones,David Petrarca,Vanessa Taylor,Ramin Djawadi,Martin Kenzie,Katie Weiland,8.6,97,9,9.1,A Clash of Kings,14,3.65
+2,5,The Ghost of Harrenhal,David Petrarca,"David Benioff, D. B. Weiss",Ramin Djawadi,Martin Kenzie,Katie Weiland,8.6,96,7.6,8.6,A Clash of Kings,15,3.9
+2,6,The Old Gods and the New,David Nutter,Vanessa Taylor,Ramin Djawadi,Martin Kenzie,Oral Norrie Ottey,8.9,100,9.3,9.4,A Clash of Kings,16,3.88
+2,7,A Man Without Honor,David Nutter,"David Benioff, D. B. Weiss",Ramin Djawadi,Martin Kenzie,Oral Norrie Ottey,8.8,96,8.7,9.033333333,A Clash of Kings,17,3.69
+2,8,The Prince of Winterfell,Alan Taylor,"David Benioff, D. B. Weiss",Ramin Djawadi,Jonathan Freeman,Frances Parker,8.6,100,8.8,9.133333333,A Clash of Kings,18,3.86
+2,9,Blackwater,Neil Marshall,George R. R. Martin,Ramin Djawadi,Sam McCurdy,Oral Norrie Ottey,9.6,100,9.5,9.7,A Clash of Kings,19,3.38
+2,10,Valar Morghulis,Alan Taylor,"David Benioff, D. B. Weiss",Ramin Djawadi,Jonathan Freeman,Frances Parker,9.3,92,9.2,9.233333333,A Clash of Kings,20,4.2
+3,1,Valar Dohaeris,Daniel Minahan,"David Benioff, D. B. Weiss",Ramin Djawadi,Jonathan Freeman,Frances Parker,8.6,98,8.3,8.9,A Storm of Swords,21,4.37
+3,2,"Dark Wings, Dark Words",Daniel Minahan,Vanessa Taylor,Ramin Djawadi,Jonathan Freeman,Frances Parker,8.5,89,7.4,8.266666667,A Storm of Swords,22,4.27
+3,3,Walk of Punishment,David Benioff,"David Benioff, D. B. Weiss",Ramin Djawadi,Matthew Jensen,Katie Weiland,8.7,92,8.8,8.9,A Storm of Swords,23,4.72
+3,4,And Now His Watch Is Ended,Alex Graves,"David Benioff, D. B. Weiss",Ramin Djawadi,Anette Haellmigk,Katie Weiland,9.5,100,9.3,9.6,A Storm of Swords,24,4.87
+3,5,Kissed by Fire,Alex Graves,Bryan Cogman,Ramin Djawadi,Anette Haellmigk,Katie Weiland,8.9,100,9.2,9.366666667,A Storm of Swords,25,5.35
+3,6,The Climb,Alik Sakharov,"David Benioff, D. B. Weiss",Ramin Djawadi,David Katznelson,Oral Norrie Ottey,8.7,83,8.7,8.566666667,A Storm of Swords,26,5.5
+3,7,The Bear and the Maiden Fair,Michelle MacLaren,George R. R. Martin,Ramin Djawadi,Chris Seager,Frances Parker,8.6,78,8.5,8.3,A Storm of Swords,27,4.84
+3,8,Second Sons,Michelle MacLaren,"David Benioff, D. B. Weiss",Ramin Djawadi,Chris Seager,Frances Parker,8.9,97,9.1,9.233333333,A Storm of Swords,28,5.13
+3,9,The Rains of Castamere,David Nutter,"David Benioff, D. B. Weiss",Ramin Djawadi,Robert McLachlan,Oral Norrie Ottey,9.9,100,9.7,9.866666667,A Storm of Swords,29,5.22
+3,10,Mhysa,David Nutter,"David Benioff, D. B. Weiss",Ramin Djawadi,Robert McLachlan,Oral Norrie Ottey,9,100,8.5,9.166666667,A Storm of Swords,30,5.39
+4,1,Two Swords,D. B. Weiss,"David Benioff, D. B. Weiss",Ramin Djawadi,Jonathan Freeman,Katie Weiland,9,95,9.1,9.2,A Storm of Swords,31,6.64
+4,2,The Lion and the Rose,Alex Graves,George R. R. Martin,Ramin Djawadi,Anette Haellmigk,Katie Weiland,9.7,100,9.4,9.7,A Storm of Swords,32,6.31
+4,3,Breaker of Chains,Alex Graves,"David Benioff, D. B. Weiss",Ramin Djawadi,Anette Haellmigk,Katie Weiland,8.7,96,7.9,8.733333333,A Storm of Swords,33,6.59
+4,4,Oathkeeper,Michelle MacLaren,Bryan Cogman,Ramin Djawadi,Robert McLachlan,Crispin Green,8.7,96,9,9.1,A Storm of Swords,34,6.95
+4,5,First of His Name,Michelle MacLaren,"David Benioff, D. B. Weiss",Ramin Djawadi,Robert McLachlan,Crispin Green,8.6,98,8.9,9.1,A Storm of Swords,35,7.16
+4,6,The Laws of Gods and Men,Alik Sakharov,Bryan Cogman,Ramin Djawadi,Fabian Wagner,Crispin Green,9.7,94,8.6,9.233333333,A Storm of Swords,36,6.4
+4,7,Mockingbird,Alik Sakharov,"David Benioff, D. B. Weiss",Ramin Djawadi,Fabian Wagner,Tim Porter,9,100,9.2,9.4,A Storm of Swords,37,7.2
+4,8,The Mountain and the Viper,Alex Graves,"David Benioff, D. B. Weiss",Ramin Djawadi,Anette Haellmigk,Tim Porter,9.7,96,9.6,9.633333333,A Storm of Swords,38,7.17
+4,9,The Watchers on the Wall,Neil Marshall,"David Benioff, D. B. Weiss",Ramin Djawadi,David Franco,Katie Weiland,9.6,94,9.4,9.466666667,A Storm of Swords,39,6.95
+4,10,The Children,Alex Graves,"David Benioff, D. B. Weiss",Ramin Djawadi,Anette Haellmigk,Tim Porter,9.6,98,8.4,9.266666667,A Storm of Swords,40,7.09
+5,1,The Wars to Come,Michael Slovis,"David Benioff, D. B. Weiss",Ramin Djawadi,David Franco,Katie Weiland,8.3,96,8.7,8.866666667,A Feast for Crows,41,8
+5,2,The House of Black and White,Michael Slovis,"David Benioff, D. B. Weiss",Ramin Djawadi,David Franco,Katie Weiland,8.4,96,8.9,8.966666667,A Feast for Crows,42,6.81
+5,3,High Sparrow,Mark Mylod,"David Benioff, D. B. Weiss",Ramin Djawadi,Anette Haellmigk,Tim Porter,8.4,100,9,9.133333333,A Feast for Crows,43,6.71
+5,4,Sons of the Harpy,Mark Mylod,Dave Hill,Ramin Djawadi,Anette Haellmigk,Tim Porter,8.5,96,6.5,8.2,A Feast for Crows,44,6.82
+5,5,Kill the Boy,Jeremy Podeswa,Bryan Cogman,Ramin Djawadi,Gregory Middleton,Crispin Green,8.5,94,9,8.966666667,A Feast for Crows,45,6.56
+5,6,"Unbowed, Unbent, Unbroken",Jeremy Podeswa,Bryan Cogman,Ramin Djawadi,Gregory Middleton,Crispin Green,7.9,54,7.6,6.966666667,A Dance with Dragons,46,6.24
+5,7,The Gift,Miguel Sapochnik,"David Benioff, D. B. Weiss",Ramin Djawadi,Fabian Wagner,Crispin Green,8.8,84,7.8,8.333333333,A Dance with Dragons,47,5.4
+5,8,Hardhome,Miguel Sapochnik,"David Benioff, D. B. Weiss",Ramin Djawadi,Fabian Wagner,Tim Porter,9.8,100,9.1,9.633333333,A Dance with Dragons,48,7.01
+5,9,The Dance of Dragons,David Nutter,"David Benioff, D. B. Weiss",Ramin Djawadi,Robert McLachlan,Katie Weiland,9.4,83,8.1,8.6,A Dance with Dragons,49,7.14
+5,10,Mother's Mercy,David Nutter,"David Benioff, D. B. Weiss",Ramin Djawadi,Robert McLachlan,Tim Porter,9.1,92,8.3,8.866666667,A Dance with Dragons,50,8.11
+6,1,The Red Woman,Jeremy Podeswa,"David Benioff, D. B. Weiss",Ramin Djawadi,Gregory Middleton,Crispin Green,8.4,86,6.4,7.8,The Winds of Winter,51,7.94
+6,2,Home,Jeremy Podeswa,Dave Hill,Ramin Djawadi,Gregory Middleton,Crispin Green,9.3,88,6.2,8.1,The Winds of Winter,52,7.29
+6,3,Oathbreaker,Daniel Sackheim,"David Benioff, D. B. Weiss",Ramin Djawadi,Anette Haellmigk,Katie Weiland,8.6,87,6.2,7.833333333,The Winds of Winter,53,7.28
+6,4,Book of the Stranger,Daniel Sackheim,"David Benioff, D. B. Weiss",Ramin Djawadi,Anette Haellmigk,Katie Weiland,9,100,6.6,8.533333333,The Winds of Winter,54,7.82
+6,5,The Door,Jack Bender,"David Benioff, D. B. Weiss",Ramin Djawadi,Jonathan Freeman,Crispin Green,9.7,98,7,8.833333333,The Winds of Winter,55,7.89
+6,6,Blood of My Blood,Jack Bender,Bryan Cogman,Ramin Djawadi,Jonathan Freeman,Yan Miles,8.3,86,6.5,7.8,The Winds of Winter,56,6.71
+6,7,The Broken Man,Mark Mylod,Bryan Cogman,Ramin Djawadi,P. J. Dillon,John Harris,8.5,98,6.5,8.266666667,The Winds of Winter,57,7.8
+6,8,No One,Mark Mylod,"David Benioff, D. B. Weiss",Ramin Djawadi,P. J. Dillon,Katie Weiland,8.3,84,5.8,7.5,The Winds of Winter,58,7.6
+6,9,Battle of the Bastards,Miguel Sapochnik,"David Benioff, D. B. Weiss",Ramin Djawadi,Fabian Wagner,Tim Porter,9.9,98,8,9.233333333,The Winds of Winter,59,7.66
+6,10,The Winds of Winter,Miguel Sapochnik,"David Benioff, D. B. Weiss",Ramin Djawadi,Fabian Wagner,Tim Porter,9.9,99,7.8,9.2,The Winds of Winter,60,8.89
+7,1,Dragonstone,Jeremy Podeswa,"David Benioff, D. B. Weiss",Ramin Djawadi,Gregory Middleton,Crispin Green,8.5,93,6.1,7.966666667,A Dream of Spring,61,10.11
+7,2,Stormborn,Mark Mylod,Bryan Cogman,Ramin Djawadi,P. J. Dillon,Tim Porter,8.8,96,5.8,8.066666667,A Dream of Spring,62,9.27
+7,3,The Queen's Justice,Mark Mylod,"David Benioff, D. B. Weiss",Ramin Djawadi,P. J. Dillon,Jesse Parker,9.1,90,6.3,8.133333333,A Dream of Spring,63,9.25
+7,4,The Spoils of War,Matt Shakman,"David Benioff, D. B. Weiss",Ramin Djawadi,Robert McLachlan,Katie Weiland,9.7,97,6.6,8.666666667,A Dream of Spring,64,10.17
+7,5,Eastwatch,Matt Shakman,Dave Hill,Ramin Djawadi,Robert McLachlan,Katie Weiland,8.7,95,5.3,7.833333333,A Dream of Spring,65,10.72
+7,6,Beyond the Wall,Alan Taylor,"David Benioff, D. B. Weiss",Ramin Djawadi,Jonathan Freeman,Tim Porter,9,84,4.9,7.433333333,A Dream of Spring,66,10.24
+7,7,The Dragon and the Wolf,Jeremy Podeswa,"David Benioff, D. B. Weiss",Ramin Djawadi,Gregory Middleton,Crispin Green,9.4,88,6,8.066666667,A Dream of Spring,67,12.07
+8,1,Winterfell,David Nutter,Dave Hill,Ramin Djawadi,David Franco,Crispin Green,7.6,92,5.5,7.433333333,A Dream of Spring,68,11.76
+8,2,A Knight of the Seven Kingdoms,David Nutter,Bryan Cogman,Ramin Djawadi,David Franco,Crispin Green,7.9,87,5.9,7.5,A Dream of Spring,69,10.29
+8,3,The Long Night,Miguel Sapochnik,"David Benioff, D. B. Weiss",Ramin Djawadi,Fabian Wagner,Tim Porter,7.5,74,4.2,6.366666667,A Dream of Spring,70,12.02
+8,4,The Last of the Starks,David Nutter,"David Benioff, D. B. Weiss",Ramin Djawadi,David Franco,Katie Weiland,5.5,58,2.9,4.733333333,A Dream of Spring,71,11.8
+8,5,The Bells,Miguel Sapochnik,"David Benioff, D. B. Weiss",Ramin Djawadi,Fabian Wagner,Tim Porter,6,49,3.4,4.766666667,A Dream of Spring,72,12.48
+8,6,The Iron Throne,David Benioff & D. B. Weiss,"David Benioff, D. B. Weiss",Ramin Djawadi,Jonathan Freeman,Katie Weiland,4,47,2.6,3.766666667,A Dream of Spring,73,13.61
